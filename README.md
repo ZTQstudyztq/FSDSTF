@@ -1,10 +1,8 @@
-## Feature selection and double self-expressive tensor fusion for multi-view subspace clustering
-
 <br/>
 
 | ![](FSDSTF.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The framework of FSDSTF. (1) Each view data $\boldsymbol{X}^{(v)}$ is integrated along the feature direction to form a combined matrix $\boldsymbol{Y}$, which synthesizes all view features. Subsequently, the feature selection matrix $\boldsymbol{P}$ is applied to select representative features from $\boldsymbol{Y}$, yielding the refined matrix $\boldsymbol{PY}$. (2) Taking $\boldsymbol{PY}$ as input, the explicit and latent self-expression are introduced to capture potential correlation of the data. These two self-expressive matrices are then fused into a tensor $\boldsymbol{\mathcal{G}}$, enabling comprehensive utilization of information from both explicit and latent self-expression. |
+
 
 <br/>
 
