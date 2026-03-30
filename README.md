@@ -7,4 +7,4 @@
 <br/>
 
 
-Run "run_demo.m" to test the FSDSTF algorithm. The code has been tested in Matlab R2021b on a PC with Windows 10.
+Run "run_demo.m" to test the algorithm. The code has been tested in Matlab R2021b on a PC with Windows 10.
